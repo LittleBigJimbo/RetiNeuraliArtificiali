@@ -1,9 +1,7 @@
 # RetiNeuraliArtificiali
 Lavoro per la tesina di maturità incentrato sulla creazione di una rete neurale in grado di imparare a riconoscere i caratteri del database MNIST
 
-<i>Poichè la mia tesina non è ancora completa, per ora non saranno presenti in questa pagina di vetrina informazioni particolarmente importanti</i>
-
-Quando il mio lavoro sarà finito, conto di aver creato almeno 6 programmi:
+Descrizione dei sei programmi presenti in questa repository:
 
 01. <b>Percettrone</b>:  Percettrone non in grado di apprendere ed i cui pesi vanno impostati a mano 
 02. <b>ApprendimentoPercy</b>: Percettrone che con numero sufficiente di esempi è in grado di apprendere cosa fare usando la regola delta
